@@ -76,6 +76,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [razyar](https://razyar.github.io)
 - [Cloner93 :smile: ](https://github.com/cloner93)
 - [__Jadi__:feelsgood::heart:](https://jadi.net)
+- [ Mehdi Fakouri :sunglasses:](https://github.com/mehdiAI)
 - [__Mostafa__:heart:](https://github.com/m0st4f4)
 - With regards [:computer: Ray :computer:](https://github.com/1MahdiR)
 - [*AlirezAE*](https://github.com/AlirezaRezaie)
